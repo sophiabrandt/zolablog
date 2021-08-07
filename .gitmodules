@@ -1,0 +1,9 @@
+[submodule "themes/ergo"]
+	path = themes/ergo
+	url = https://github.com/insipx/Ergo.git
+[submodule "Ergo"]
+	path = Ergo
+	url = https://github.com/insipx/Ergo.git
+[submodule "themes/feather"]
+	path = themes/feather
+	url = https://github.com/U9H/feather.git
